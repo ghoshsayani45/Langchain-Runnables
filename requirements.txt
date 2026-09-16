@@ -1,0 +1,20 @@
+# Langchain Core
+langchain
+langchain-core
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Text Loaders
+langchain-community
+
+# Text Splitters
+langchain-text-splitters
+
+# FAISS
+faiss-cpu
+
+# Environment Variable Management
+python-dotenv
+
